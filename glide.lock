@@ -1,0 +1,8 @@
+hash: 9403b1c3edec56cd1d0f34db3b3ffbf88b9e41d423dcea0900c2a35e91feff33
+updated: 2018-01-23T10:29:37.446055Z
+imports:
+- name: github.com/urfave/cli
+  version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+testImports:
+- name: github.com/rendon/testcli
+  version: 6283090d169f51a2410b4e260341a01c9a4c0ca7
